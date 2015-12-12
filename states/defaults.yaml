@@ -1,0 +1,6 @@
+kernel:
+  Linux:
+    pkgs:
+      - grafana
+    service:
+      name: grafana-server
