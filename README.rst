@@ -11,10 +11,6 @@ saltstack-grafana-formula
     :alt: Apache-2.0-licensed
     :target: https://github.com/bechtoldt/saltstack-grafana-formula/blob/master/LICENSE
 
-.. image:: https://travis-ci.org/bechtoldt/saltstack-grafana-formula.svg
-    :alt: Build Status
-    :target: https://travis-ci.org/bechtoldt/saltstack-grafana-formula
-
 .. image:: https://img.shields.io/badge/chat-gitter-brightgreen.svg
     :alt: Join Gitter Chat
     :target: https://gitter.im/bechtoldt/saltstack-grafana-formula?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
